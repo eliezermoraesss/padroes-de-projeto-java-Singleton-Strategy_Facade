@@ -8,4 +8,4 @@ Este projeto explorou alguns padrões usando Java puro:
 2. Strategy
 3. Facade
 
-# [SPRING - API REST - Explorando Padrões de Projetos na Prática com Java](https://github.com/eliezermoraesss/padroes-de-projeto-java-Spring-API-REST)
+# [Projeto "SPRING - API REST - Explorando Padrões de Projetos na Prática com Java"](https://github.com/eliezermoraesss/padroes-de-projeto-java-Spring-API-REST)
